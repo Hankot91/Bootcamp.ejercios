@@ -3,9 +3,9 @@ public class Main {
       
       System.out.println(suma(10,30,50));
       
-      Coche c1 = new Coche();
-      c1.agregarPuertas();
-      System.out.println(c1.puertas);
+      Coche micoche = new Coche();
+      micoche.agregarPuertas();
+      System.out.println(micoche.puertas);
     }
     
     
